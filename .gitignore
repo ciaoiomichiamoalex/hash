@@ -1,0 +1,6 @@
+/bin/
+*.exe
+*.gch
+*.o
+*.out
+*.sublime-workspace
