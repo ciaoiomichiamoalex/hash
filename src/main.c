@@ -1,4 +1,4 @@
-
+#include "hash.h"
 
 int main(int argc, char **argv) {
     Hash hashmap = hash();
