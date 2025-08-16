@@ -1,5 +1,7 @@
 #include "hash.h"
 
+#include <stdio.h>
+
 int main(int argc, char **argv) {
     Hash hashmap = hash();
     show_hash(hashmap);
