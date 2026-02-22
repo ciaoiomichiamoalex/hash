@@ -1,3 +1,4 @@
+#define HASH_IMPLEMENTATION
 #include "hash.h"
 
 #include <stdio.h>
